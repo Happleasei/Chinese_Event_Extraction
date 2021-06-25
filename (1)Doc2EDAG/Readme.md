@@ -1,6 +1,7 @@
 # 中文事件抽取：是
 
-# 论文 见../../pdf下（1）......
+# 论文见：https://github.com/HelloHeChengXi/Event_Extraction/tree/main/pdf
+（序号相对应）
 
 # 源码来源：https://github.com/dolphin-zs/Doc2EDAG
 
